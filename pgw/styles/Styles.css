@@ -1,0 +1,60 @@
+h1{
+    color:burlywood;
+    text-align: center;
+}
+h2{
+    margin: 3px 36px;
+}
+#Messi{
+    text-align: center;
+    color:black
+}
+body{
+    background-color: antiquewhite;
+}
+table{
+    border: 1px solid black;
+    margin: 3px 36px;
+    padding-bottom: 16px;
+    padding-right: 16px;
+    border-collapse: collapse;
+}
+th{
+    text-align: left;
+}
+tr{
+    border-bottom: 3px solid black;
+}
+tr:nth-child(even){
+    background-color: #D6EEEE;
+}
+#Guns{
+    height: 36px;
+}
+#Armas{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 12px;
+}
+li a:hover{
+    background-color: greenyellow;
+}
+div{
+
+    overflow: auto;
+}
